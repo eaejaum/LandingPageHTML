@@ -220,17 +220,17 @@ button {
     font-weight: 400;    
 }
 
-/* .receita-autor {
+.receita-autor {
     display: flex;
     flex-direction: row;
     align-items: center;
     gap: 0.5rem;
-} */
-/* 
+}
+
 .receita-autor img {
     border-radius: 20rem;
     width: 1.5rem;
-} */
+}
 
 .receita-autor-nome {
     color: #C7BAB3;
@@ -246,13 +246,6 @@ footer {
     align-items: center;
     gap: 0.5rem;
     background: #23181A;
-}
-
-.footer-copy {
-    color: #FFFFFF;
-    font-family: Inter;
-    font-size: 1rem;
-    font-weight: 500;
 }
 
 .footer-autor {
